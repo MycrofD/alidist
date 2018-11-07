@@ -31,7 +31,7 @@ If you want to avoid this please install the following modules (pip recommended)
   - notebook
   - metakernel
   - rootpy #1.0.1
-  - root_numpy # 4.7.1
+  - root_numpy # 4.7.1 for ROOT6, # 4.6.0 for ROOT5
   - pyyaml
 
 EoF
